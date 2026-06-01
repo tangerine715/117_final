@@ -1,0 +1,11 @@
+[project]
+name = "117-final"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "huggingface>=0.0.1",
+    "opencv-python>=4.13.0.92",
+    "sam3>=0.1.4",
+]
