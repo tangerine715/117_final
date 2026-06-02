@@ -5,7 +5,8 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "huggingface>=0.0.1",
+    "gdown>=6.1.0",
+    "matplotlib>=3.10.9",
     "opencv-python>=4.13.0.92",
-    "sam3>=0.1.4",
+    "ultralytics>=8.4.60",
 ]

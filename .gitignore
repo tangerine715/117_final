@@ -14,3 +14,9 @@ wheels/
 
 # Videos
 *.mov
+
+# Sync config
+sftp.json
+
+# Model outputs
+*.pt
