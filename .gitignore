@@ -20,3 +20,6 @@ sftp.json
 
 # Model outputs
 *.pt
+
+#correspondences
+final/street_correspondences.pckl

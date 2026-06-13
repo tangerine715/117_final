@@ -6,7 +6,13 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "gdown>=6.1.0",
+    "ipympl>=0.10.0",
     "matplotlib>=3.10.9",
+    "moviepy>=2.2.1",
+    "onnxruntime>=1.26.0",
     "opencv-python>=4.13.0.92",
+    "pyqt6>=6.11.0",
+    "rembg>=2.0.69",
+    "trimesh>=4.12.2",
     "ultralytics>=8.4.60",
 ]
